@@ -166,6 +166,8 @@ cython_debug/
 data/
 UCI_HAR_Dataset/
 *.zip
+*.txt
+*.csv
 
 # Model files
 *.h5
