@@ -27,7 +27,6 @@ Throughout the course, I explored the following topics in my assignments:
 - Word embeddings and Natural Language Processing (NLP)
 - Gated Recurrent Units (GRUs) and Long Short-Term Memory (LSTMs)
 - Autoencoders for feature learning and dimensionality reduction
-- Generative Adversarial Networks (GANs) for image synthesis
 
 ### Optimization and Regularization
 
